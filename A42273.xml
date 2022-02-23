@@ -1,0 +1,193 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The grumbletonian crew reprehended being reflections upon the ungrateful and unmannerly behaviour of that new-upstart sect: occasioned by the scrupling to take the new oath of allegiance. Together with some good advice, to such of them, as are yet capable of it; and not too far advanced towards Bedlam. By Sir P. Philopolites. With allowance.</title>
+            <author>Philopolites, P., Sir.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A42273</idno>
+            <idno type="STC">Wing G2164</idno>
+            <idno type="STC">ESTC R223697</idno>
+            <idno type="EEBO-CITATION">99833982</idno>
+            <idno type="PROQUEST">99833982</idno>
+            <idno type="VID">38461</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A42273)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 38461)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1833:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The grumbletonian crew reprehended being reflections upon the ungrateful and unmannerly behaviour of that new-upstart sect: occasioned by the scrupling to take the new oath of allegiance. Together with some good advice, to such of them, as are yet capable of it; and not too far advanced towards Bedlam. By Sir P. Philopolites. With allowance.</title>
+                  <author>Philopolites, P., Sir.</author>
+               </titleStmt>
+               <extent>[4], 8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Richard Janeway in Queens-Head-Alley in Pater Noster-Row,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MCDLXXXIX. [1689]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Sir. P. Philopolites is a pseudonym.</note>
+                  <note>A satirical attack on the non-jurors of 1689.</note>
+                  <note>Reproduction of the original at the Trinity College Library, Dublin.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>James --  II, --  King of England, 1633-1701 --  Controversial literature --  Early works to 1800.</term>
+               <term>Nonjurors --  Controversial literature --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  Revolution of 1688 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:38461:1"/>
+            <!-- PDF PAGE 32 -->
+            <pb facs="tcp:38461:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 32 -->
+            <p>THE <hi>Grumbletonian Crew</hi> Reprehended;</p>
+            <p>BEING REFLECTIONS UPON The <hi>
+                  <g ref="char:V">Ʋ</g>ngrateful</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>nmannerly</hi> BEHAVIOUR of that New-upſtart Sect:</p>
+            <p>OCCASIONED By the SCRUPLING to take the NEW OATH of ALLEGIANCE. TOGETHER With ſome <hi>Good Advice,</hi> to ſuch of Them, as are yet Capable of it; and not too far advanced towards <hi>Bedlam.</hi>
+            </p>
+            <p>By Sir <hi>P. Philopolites.</hi>
+            </p>
+            <q xml:lang="lat">Ingratus eſt, qui gratiam bene merenti non reponit.</q>
+            <p>With Allowance.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Richard Janeway</hi> in <hi>Queens-Head-Alley</hi> in <hi>Pater Noſter-Row.</hi> MDCLXXXIX.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:38461:2"/>
+            <!-- PDF PAGE 33 -->
+            <pb facs="tcp:38461:2"/>
+            <!-- PDF PAGE 33 -->
+            <head>TO THE Grumbletonian READER.</head>
+            <p>THis Sheet was intended chiefly for thy Peruſual, wherein if I have Treated thee a little roughly, at the beginning; 'tis only to be Reveng'd on thee for uſing the Government ſo. But read on, and thou will find, I have endeavour'd by a more mild Method, to reduce thee to thy Wits, clog'd perhaps at preſent with a great many pretended Scruples, which put altoge<g ref="char:EOLhyphen"/>ther, make not up one dram of Sence. I know moſt of your Tribe, have been luſty enough formerly, to skip over Blocks; which makes it an unaccountable thing to me, how you come ſo feeble all of a ſuddain, to ſtumble at Straws. And as ſtrange it is, that they who us'd to ſwallow <hi>Camels,</hi> ſhould now ſtrain at <hi>Gnats.</hi> But thus have I ſeen the ſame Horſe, that ruſheth without fear into the Battle, to ſtart at his own ſhadow. And here I ſhall leave thee, with thy Fellow-brute, like <hi>Nebuchad<g ref="char:EOLhyphen"/>nezzar</hi> amongſt the Beasts of the Field, till thy <g ref="char:V">Ʋ</g>nderſtand<g ref="char:EOLhyphen"/>ng returns unto thee. Only take this along with thee (becauſe thou ſeem'ſt ſo in Love with Miſery and Deſtruction.) That the Devil is in a very Swine, much more, one would think in a Man, that ſhould run down a ſteep Hill on purpoſe to be
+<pb facs="tcp:38461:3"/>
+               <!-- PDF PAGE 34 -->choakt. But ſeeing thou art now reſcu'd from Ruine, whe<g ref="char:EOLhyphen"/>ther thou would'ſt or no; be not ſo fond of breaking thy Neck, from off another Precipice, which you may yet avoid. The Government may poſſibly connive at your Saucineſs (to ſay no worſe) at preſent, which you connot ſuppoſe it will always endure. And conſider, how many, ſome of you, have been In<g ref="char:EOLhyphen"/>ſtrumental formerly, to hang out of the way, for far leſſer Mat<g ref="char:EOLhyphen"/>ters, than you now ſtand Guilty of your ſelves. I therefore thus Advice, and bid you,</p>
+            <q>
+               <l>Farewel and be Wiſer 'ere it be too late;</l>
+               <l>
+                  <hi>Gibbets</hi> you know, are Utenſils of State.</l>
+            </q>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:38461:3"/>
+            <!-- PDF PAGE 34 -->
+            <head>THE <hi>Grumbletonian Crew</hi> Reprehended; BEING REFLECTIONS UPON The <hi>Ungrateful</hi> and <hi>Unmannerly</hi> BEHAVIOUR Of that NEW-UPST ART SECT &amp;c.</head>
+            <p>THIS is our great Year of <hi>Jubilee,</hi> wherein every Man may return to his Poſſeſſion, that was unjuſtly tak<g ref="char:EOLhyphen"/>en from him; and every Bond-Man may be made free, if he pleaſes. But certainly, they are very fit for Slaves, who cannot find in their Hearts to be very thankful for their Liberty: which being the Caſe of our preſent Grumbletoni<g ref="char:EOLhyphen"/>an Crew, it were Pitty, if they might not have leave, to tranſplant themſelves into ſome <hi>Catholic</hi> Country; where they may have their Ears bor'd through to the Door Poſt, in Token of an Everlaſting Servitude; and may ſolace them<g ref="char:EOLhyphen"/>ſelves with the full Fruition and Enjoyment of all the good Effects of Popery and Arbitrary Power; which now they have loſt the Benefit of in <hi>England.</hi>
+            </p>
+            <p>
+               <pb n="2" facs="tcp:38461:4"/>
+               <!-- PDF PAGE 35 -->
+Theſe Monſters of Ingratitude, out-do the very Devil him<g ref="char:EOLhyphen"/>ſelf; who was always pretty quiet, whilſt he was in Poſ<g ref="char:EOLhyphen"/>ſeſſion; and never raged till he was in danger of being e<g ref="char:EOLhyphen"/>jected. But our Male-Contents, ſeem to be poſſeſt with a New Sort of diſcontented Devil, never heard of be<g ref="char:EOLhyphen"/>fore, and are ſuch <hi>Renagado's</hi> from Common Senſe, that they prefer their being turn'd out of all, rather than ſuch a Settlement (to the ſatisfaction of all reaſonable and good Men) as <hi>England</hi> never had the opportunity of before, per<g ref="char:EOLhyphen"/>haps ſince it was a Nation.</p>
+            <p>That ſtiff necked untoward Generation of the <hi>Jews,</hi> had their <hi>Murmurers</hi> indeed amongſt them, as well as we; but 'twas always when they were brought to ſome Streights: and not immediately upon their Deliverance out of them. A capricious Giddiheaded Humor ('tis true indeed took them once) of making a Captain, and returning into <hi>Egypt;</hi> whilſt they were in the Wilderneſs: But we never read, that they were ſuch down right Blockheads, as to mention any ſuch thing, after they came into the Promiſed Land; tho' they were forced to fight their Way through it.</p>
+            <p>We, thanks be to God, are put into poſſeſſion all that is dear to us, both as Men and <hi>Chriſtians;</hi> upon no harder Terms, than to be thankful. And would not any one in his Wits that knew, our woeful Condition, but ſome few Weeks ſince, think us all mad, that thought much of that.</p>
+            <p>But the Truth of it is, we have had a Lucky Age on't, till of late, for Knaves and Fools; and now good Men dare to lift up their Heads, the other Sort muſt be forced to pull in their Horns: which Sort of Diſcrimination is grievous to them, whoſe pretended Loyalty always con<g ref="char:EOLhyphen"/>ſiſted, in wading through thick and thin; in Order to keep themſelves in a Capacity to do miſchief. And now that Trade fails, the Poor Men are undone all of ſuddain; and tho' they never knew what a good Conſcience meant, in all their Lives, yet are now troubled with ſuch Qualms, as no Man can imagine or believe. A new Oath of <hi>Alle<g ref="char:EOLhyphen"/>giance,</hi>
+               <pb n="3" facs="tcp:38461:4"/>
+               <!-- PDF PAGE 35 -->amongſt the reſt, is that, which every Kitling <hi>Cri<g ref="char:EOLhyphen"/>tic</hi> of this Tribe, takes upon him to cenſure, tho' I could never yet hear of any ſolid Reaſon given againſt it, by the greateſt of their Recuſants. Nor can any certainly be given; God and the States of the Realm, having ſo plainly pointed out unto us, to whom it is due; as by many Learned and Judicious Men, have lately, been ſufficiently de<g ref="char:EOLhyphen"/>monſtrated in the Point. So that after all, I cannot ſee what ſhould hinder the going down of this new Oath; eſ<g ref="char:EOLhyphen"/>pecially, with a great many of the debauched Sort of theſe Murmerators: Unleſs their Throats be ſo furr'd with God Dame's, that no other Oath will ſlip: And yet theſe Sort of ſtrange Foplings, as well as others, help to make up the number, of theſe Pretenders to a tender Conſcience in this Matter; and behave themſelves ſo toward Authori<g ref="char:EOLhyphen"/>ty, as if they thought their ill behaviour upon that account, would make an Attonement with God Almighty, for the reſt of their flagicious Crimes.</p>
+            <p>I need not here undertake, by any Arguments of mine, to juſtify the Public Proceedings, upon the late miraculous Revolution, that has been done already by thoſe, who were far more able to perform it. But that which ſatiſ<g ref="char:EOLhyphen"/>fies me as a private Perſon (not at all concern'd in Public Affairs) and I think ought to ſatisfy all others in my Sta<g ref="char:EOLhyphen"/>tion, is this. <hi>That every Soul</hi> (according to the <hi>Apoſtles</hi> Rule) <hi>ought to be ſubject to the Higher Power:</hi> for that <hi>there's no Power but of God.</hi> And that <hi>the Powers that be, are ordained of God,</hi> and thereupon <hi>whoſoever reſiſteth the preſent Power he is under, reſiſteth the Ordinance of God.</hi>
+            </p>
+            <p>Now conſider, we who are private Perſons, have been only Spectators, throughout the whole Series of Divine Pro<g ref="char:EOLhyphen"/>vidence, in this great Revolution. We have indeed been under terrible Apprehenſions a long while, of being deſtroy<g ref="char:EOLhyphen"/>ed, by the deſperate Steerage of that <hi>Pilot,</hi> who was in<g ref="char:EOLhyphen"/>truſted with the Government; which, when he had Strand<g ref="char:EOLhyphen"/>ed and run a Ground, Abdicated and then forſook the
+<pb n="4" facs="tcp:38461:5"/>
+               <!-- PDF PAGE 36 -->ſame, as a Wreck in the Sea. Upon this, there are other <hi>Pilots,</hi> that are deſir'd to uſe their Skill and Gare, in weigh<g ref="char:EOLhyphen"/>ing and poiſing up again this ſameforſaken and ſinking Veſſel. Truly I am ſatisfy'd (as to my own Particular) in ſuch a Caſe as this, our Obligation to the firſt <hi>Pilot</hi> ceaſes of courſe; and we may enter into a new Agreement and Obligation to the latter, without asking any Queſtion for Conſcience Sake. <hi>Allegiance</hi> being Naturally due to thoſe that can and do protect us, and not to him that is out of that Capacity; to ſay nothing which may ſound more harſh.</p>
+            <p>We as private Perſons, had no Hand either one way or other, in ſetting up of the preſent Power, upon the Declen<g ref="char:EOLhyphen"/>ſion of the former; but we find it ſet up to our Hands. And being ſet up in ſuch a Solemn manner, as at preſent we ſee it is, I think (according to the ſaid <hi>Apoſtle's</hi> Rule) we ought to be ſubject to it, for the aforeſaid Reaſons, given in the Text: and not by a Deſperate and Diſloyal refuſal, render our ſelves Obnoxious to the Government, we live ſo happily under. And upon this Ground (as the ſame <hi>Apoſtle</hi> farther enlargeth) I think we muſt needs be ſubject, not only for Wrath but even alſo for Conſcience Sake.</p>
+            <p>And to be a little farther ſerious in this Matter, do but conſider ſtill the deſperate Condition, we were lately in (this cannot be denyed, I trow) and alſo the late ſeeming impoſſibility of our Deliverance, ſo that we were ready to conclude with <hi>David</hi> in his Caſe, that he ſhould certainly one Day periſh by the Hand of <hi>Saul.</hi> I ſay, do but con<g ref="char:EOLhyphen"/>ſider this Seriouſly, in all its Circumſtances (too many to be enumerated) and we muſt conclude this late Revolution in <hi>England,</hi> to be more immediately the <hi>Lord</hi>'s doing, than perhaps is to be parallel'd in any Hiſtory, ſince the writ<g ref="char:EOLhyphen"/>ing of the Holy <hi>Scriptures.</hi> And tho' we be bound in Matters of Government, to Perſons and Families, ſo long as their Supremacy continues; yet God the great Proprietor and Lord of all, is not ſo: but pulls down one, in Caſes of
+<pb n="5" facs="tcp:38461:5"/>
+               <!-- PDF PAGE 36 -->Male-Adminiſtration, and then ſets up another: Diſpoſing of all the Kingdoms of the World as he pleaſes. And when this is done, ſtill I ſay, all Perſons (in a private Ca<g ref="char:EOLhyphen"/>pacity eſpecially) ought to ſubmit, without heſitation or doubt. And truly, all others (be they who they will) ought well to conſider, how they ſlight ſuch apparent Providences of God, as have appear'd in this mighty Sal<g ref="char:EOLhyphen"/>vation that he has rais'd up for us; leaſt whilſt they ſeem to ſtruggle with Men, they fight againſt God.</p>
+            <p>But I'le trouble the Reader with no further Arguments upon this Topic, but ſhall ſay ſomething, in Reference to the Laws of our Land (which, ſo far as they intrench not upon the Law of God) are the Meaſures of our Obedience, and this I hope will tend ſomewhat far<g ref="char:EOLhyphen"/>ther to every ones Satisfaction in this Matter. We have now a King and Queen <hi>de facto</hi> (and <hi>de jure</hi> too, I do not in the leaſt doubt) and at preſent ſuppoſing it only <hi>de facto;</hi> if then by the Law of the Land (as my Lord <hi>Coke</hi> ſays) Treaſon may be Committed againſt a King, that is only ſo <hi>de facto;</hi> then ſure, Allegiance is due of courſe to ſuch a King: for where no Allegiance is due, no Treaſon can be Committed. And if ſo, it will conſequently fol<g ref="char:EOLhyphen"/>low, that no reaſonable or legal Exception can be made againſt taking the New Oath of Allegiance, to our pre<g ref="char:EOLhyphen"/>ſent and truly Gracious King and Queen, whom God long preſerve with Life and Happineſs in that Dignity to which by his own Right Hand and Holy Arm, he hath advanced them. And let it ever bear part in our Mag<g ref="char:EOLhyphen"/>nificate, <hi>that he hath put down the Mighty from their Seat, and hath exalted the Humble and Meek.</hi> And let the Church of <hi>England</hi> now confeſs and ſay, <hi>that his Mercy endureth for ever.</hi> And that the time is now come about indeed that ſhe hath a King for her <hi>Nurſing Father,</hi> and a Queen for her, <hi>Nurſing Mother.</hi> And not only Titular, but true <hi>Defenders of the Faith.</hi>
+            </p>
+            <p>
+               <pb n="6" facs="tcp:38461:6"/>
+               <!-- PDF PAGE 37 -->
+I know we have at this time, ſome, who ſay they are Friends to the Church of <hi>England</hi> (and I hope in the main are really ſo) who yet by their Imprudent and Undutiful Behaviour towards the Government, take the ready way to bring her out of Credit with it. But let them (as well as Diſſenters from the Church) beware, leaſt they have not falſe Brethren amongſt them, who manage another In<g ref="char:EOLhyphen"/>tereſt than what they intend. <hi>Tuta fruqueſque via eſt per a<g ref="char:EOLhyphen"/>mici fallere nomen.</hi>
+            </p>
+            <p>It is not ſo long ſince, but that we may very well re<g ref="char:EOLhyphen"/>member, what Drudgery we have been put upon; under the Notion of Service both to Church and State, by a Generation of Vipers, that intended to have eaten through the Bowels of both; and now have no hopes left them, of retriving their loſt Cauſe, but our Diviſions. Conſi<g ref="char:EOLhyphen"/>der what advantage they have taken of it, ever ſince the Reformation of the Church of <hi>England,</hi> from that of <hi>Rome.</hi> And when we have conſidered it, let us behave our ſelves as thoſe who believe it; ſo that our Demea<g ref="char:EOLhyphen"/>nour and Condeſcention, one towards another, in this happy Juncture, may utterly for ever fruſtrate the languiſh<g ref="char:EOLhyphen"/>ing Hopes of the common Enemy to us all.</p>
+            <p>Let us not rip up one anothers failings (there have been too many on all ſides) but let our Love to one another, cover that multitude of Faults, which otherwiſe may go very near to ſhame us all. For the Truth is, ſome of us have been ſuch overgrown Tories, as if there had gone but a pair of Shears, between them and the worſt of Papiſts; And others, hot Enthuſiaſtical Whigs, as bad as either of the former. And tho theſe Devil's Brats, in the time of our late Heats and Animoſities, have been often laid at ho<g ref="char:EOLhyphen"/>neſt Men's Doors, who had no reaſon to own them; yet that there have been, and yet are, ſome ſuch amongſt us, is but too true and evident. And tho theſe, poſſibly may not lay their Heads together, in order to the Management of their ill Deſigns; yet like <hi>Sampſon</hi>'s Foxes, they all car<g ref="char:EOLhyphen"/>ry
+<pb n="7" facs="tcp:38461:6"/>
+               <!-- PDF PAGE 37 -->Fire-brands in their Tails: and by their running ſeveral ways, do more miſchief perhaps than if they kept to<g ref="char:EOLhyphen"/>gether.</p>
+            <p>And now I muſt needs ſay, I know none but the poor Trimmer, that can plead not Guilty to this Indictment; tho he has been repreſented, as one of the worſt of Sin<g ref="char:EOLhyphen"/>ners, and ſnarl'd at on every ſide, whilſt he has been In<g ref="char:EOLhyphen"/>duſtriouſly endeavouring the good of all. But further, I muſt alſo ſay, he was not for all that eaſily beaten from his Poſt; but thought it better to be always a Trimmer than ſometimes a Fanatic, otherwhile a Tory, and at laſt a Papiſt: as many others have been, according as their Intereſts ſerv'd them. But to ſay no more of him at pre<g ref="char:EOLhyphen"/>ſent, let it now ſuffice; that tho he could never reconcile himſelf, to that blundering ſort of pretended Loyalty, lately in Faſhion; yet that he is now acceptable in the true Notions of it, to our preſent King and Queen, meer<g ref="char:EOLhyphen"/>ly for his Principles ſake, of moderation towards all Men, is very evident: And in that alone, he can acquieſce and be content, without Place or Preferment; the main Stake being ſecur'd.</p>
+            <p>And thus far, my juſt Indignation, againſt the Mur<g ref="char:EOLhyphen"/>murers of our Times, has carried me; which is farther than I at firſt intended. But however, give me leave now to enlarge a little farther, and mildly to recommend to their conſideration over again, the more than ordinary Footſteps of Divine Providence, ſo plainly ſeen in God's late Merciful Diſpenſations towards us; and which have been ſo well ſet forth and expreſſed, in ſome late Printed Sermons of the moſt Eminent Divines of the Church of <hi>England;</hi> to which I refer them. And in particular, let that twice Auſpicious 5th. day of <hi>November,</hi> and of the Years of 88, not paſs by us, without a due regard, of ſomething very remarkable in them, upon that account. Upon the <hi>Iſt</hi> 5th of <hi>November,</hi> we were delivered with our King, and on the laſt 5th of <hi>November</hi> we may well ſay
+<pb n="8" facs="tcp:38461:7"/>
+               <!-- PDF PAGE 38 -->we were delivered from him. In the firſt 88, from ill De<g ref="char:EOLhyphen"/>ſigns againſt us abroad: And in this laſt 88, from worſe at home.</p>
+            <p>And now to conclude, let us all as one Man, Purge out that ſour Leaven, that yet remains with many of us; and not abuſe that mild and gentle Government, which now God has ſet over us: leaſt he ſhould in juſt Judgment, take away the Golden Scepter, and reduce us again un<g ref="char:EOLhyphen"/>der the Iron Rod: for then, the moſt that we can ſuffer, will be the leaſt that we deſerve. We now may all do well, exceeding well, if it be not our own faults. But if Jea<g ref="char:EOLhyphen"/>louſies, of no Man knows what, and ſtrange Fancies and Chimaera's be ſet up, like Men of Straw to fight with; to the diſturbance in any manner, of that ſweet Peace, which otherwiſe we might all enjoy; then let the ill Effects thereof (I pray God) lye at their Doors only, that cauſes it: and let them be filled with the Fruit of their own doings.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
